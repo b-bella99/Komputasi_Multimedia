@@ -1,7 +1,7 @@
 # Laporan Komputasi Multimedia
 |  |  |
 |--|--|
-| Dosen Pengampu | [Septian Enggar Sukmana, S.Pd., M.T |
+| Dosen Pengampu | Septian Enggar Sukmana, S.Pd., M.T |
 | Tahun Ajaran | Genap 2020/2021 |
 | Institusi | jti.polinema.ac.id |
 
