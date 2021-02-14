@@ -1,6 +1,4 @@
-# Komputasi Multimedia
-
-Laporan Komputasi Multimedia
+# Laporan Komputasi Multimedia
 |  |  |
 |--|--|
 | Dosen Pengampu | [Septian Enggar Sukmana, S.Pd., M.T |
