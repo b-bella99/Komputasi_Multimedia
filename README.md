@@ -3,6 +3,7 @@
 |--|--|
 | Dosen Pengampu | Septian Enggar Sukmana, S.Pd., M.T |
 | Tahun Ajaran | Genap 2020/2021 |
+| Email | enggar@polinema.ac.id |
 | Institusi | jti.polinema.ac.id |
 
 ## Data Diri
